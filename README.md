@@ -1,4 +1,4 @@
--- Overview
+- Overview -
 
 This is a web-based Real Estate Management System that allows users to browse, list, and manage property listings. The system provides an intuitive interface for buyers, sellers, and agents to interact with real estate properties efficiently.
 
@@ -36,7 +36,7 @@ Hosting: Deployed on AWS / Vercel / Netlify
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/real-estate-project.git
+git clone https://github.com/rosenduati/Real-estate/tree/main
 cd real-estate-project
 
 2. Install dependencies:
